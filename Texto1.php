@@ -1,4 +1,11 @@
-Texto de prueba para el primer archivo creado en GIT de la nube
+<?php
 
+	echo "Texto de prueba para el primer archivo creado en GIT de la nube"
+?>
+	<html>
+	</html>
 
-Fin del Texto
+<?php
+
+	echo "Fin del Texto"
+?>
